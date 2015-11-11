@@ -27,7 +27,7 @@ for i in numbers{
         
     }
     
-    if(i>=40 && i<=60){
+    if(i>=30 && i<=40){
         print("\(i) Viva Swift!!!")
     }
 
